@@ -11,7 +11,7 @@ namespace Test_Project
     {
         static void Main(string[] args)
         {
-            Debug.Write("test");
+            Debug.Write("test2");
         }
     }
 }
